@@ -1,4 +1,4 @@
-# First lets set up the file name to be opened
+# First lets define the name of the file with the words we want to count
 
 name = input("Enter file:")
 if len(name) < 1:
